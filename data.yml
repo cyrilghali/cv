@@ -1,86 +1,95 @@
-Name:     Cyril Ghali
+---
+Name: Cyril Ghali
 Location: Paris, Île-de-France, France
 
-Mission:
-  Building scalable and reliable infrastructures.
+Mission: My mission is to build scalable and reliable infrastructure, enable good software development practices, and optimize the continuous delivery of software applications through collaboration.
 
 Summary: |
-  Site Reliability and DevOps Engineer • Developer • Linux Advocate • Autodidact
+  I am an experienced DevOps Engineer with a passion for building and maintaining reliable, scalable, and secure infrastructure. I specialize in designing and deploying cloud-based solutions using AWS, Azure, and Google Cloud platforms. My expertise includes Linux system administration, network configuration, and automation tools such as Ansible and Terraform. I am a problem solver at heart and enjoy tackling complex challenges through creative solutions. I am a strong communicator and thrive in collaborative environments.
 
-Contact: 
-  Email:   cyril@cyrilghali.fr
-  Web:     cyrilghali.fr
-  Twitter: datscyril
-  GitHub:  datscyril
-  YouTube: datscyril
-  Twitch:  datscyril
+Contact:
+  Email: contact@cyrilghali.fr
+  Web: cyrilghali.fr
+  GitHub: datscyril
 
 Languages:
-- French (native)
-- English (spoken and written)
-- Spanish (spoken and written)
-- Egyptian (spoken)
+  - French (native)
+  - English (spoken and written)
+  - Egyptian (spoken)
 
 Education:
+  - Entity: EPITA
+    Location: Kremlin-Bicêtre, France
+    Credential: Master of Science in Software Engineering.
+    GPA: "3.6 (4.0=A)"
+    Started: 2020
+    Stopped: 2023
+    Details:
+      - Developed expertise in good software development practices, including Agile methodology, version control using Git, and automated testing techniques.
+      - Mastered computer science concepts, such as algorithms, graph traversal, algorithmic complexity, and language theory.
+      - Demonstrated proficiency in multiple programming languages, including Java, Python, and JavaScript.
+      - Applied knowledge in building and deploying applications on cloud platforms like AWS, Azure, or Google Cloud.
+      - Completed various programming projects, including developing a shell, creating an IDE, building a web server from scratch, and working on mobile app development.
+      - Participated in notable hackathons and coding competitions, such as Gotta Go Hack.
+      - Collaborated effectively in team environments, developing strong communication skills and a dedication to continuous improvement.
+      - Attended workshops, webinars, and industry events to stay up-to-date with the latest technologies and trends in software engineering.
+      - Minor courses in UX Design, Product Management, Sales, Customer Success, and Growth Hacking.
 
-- Entity:     EPITA 
-  Location:   Kremlin-Bicêtre, France
-  Credential: MSc of Software Engineering.
-  GPA:        "3.6 (4.0=A)"
-  Started:    2020
-  Stopped:    2023
-  Details:
-  - Built a custom shell, webserver and IDE in C, C++ and Java respectively
-  - Got mincor courses - UX Design, Product Mangement, Sales, Customer Success
-
-- Entity:     EPF 
-  Location:   Sceaux, France
-  Credential: Bachelor of Engineering.
-  GPA:        "3.0 (4.0=A)"
-  Started:    2018
-  Stopped:    2020
-  Details:
-  - Academic focus on Drafting, Calculus and French
-  - Chief Tour Operator of all school trips
-  - Interested in bastkeball and mentoring
+  - Entity: EPF
+    Location: Sceaux, France
+    Credential: Bachelor of Engineering.
+    GPA: "3.0 (4.0=A)"
+    Started: 2018
+    Stopped: 2020
+    Details:
+      - Developed strong analytical problem-solving and critical thinking skills through diverse courses in mathematics, physics, mechanics, and other engineering-related subjects
+      - Gained practical experience in applying engineering principles through hands-on projects and laboratory work
+      - Strengthened teamwork and leadership skills through participation in extracurricular activities, such as serving as the Chief Tour Operator of all school trips
 
 Employment:
 
-- Role:     Lead Developer 
-  Entity:   Goodwave
-  Started:  September 2021
-  Stopped:  February 2022
-  Location: Remote (Headquartered in France)
-  Details:
-  - Developed a nocode tool that allows you to build your landing page by a form
-  - Championed creation of central management API and microservice
+  - Role: DevOps Engineer
+    Entity: KPMG Luxembourg
+    Started: March 2023
+    Stopped: August 2023
+    Location: Luxembourg
+    Details:
+      - Contributed to the development and maintenance of the company's internal platform for continuous delivery and deployment of software applications, using tools such as Azure DevOps
+      - Implemented monitoring and logging solutions for production environments including Prometheus and ELK stack
+      - Helped debug issues and improve the CI/CD pipelines for different teams within the organization
+      - Manage access, user and roles in an organization's Microsoft Azure environment, 
+      - Designing,implementing, managing and deploying cloud-native applications in a Kubernetes environment.
+      - Developed automation scripts using Ansible and Shell
+
+  - Role: Software Engineer
+    Entity: Goodwave
+    Started: Sep 2021
+    Stopped: Feb 2022
+    Location: Remote (headquartered in France)
+    Details:
+      - Developed a no-code tool for building landing pages by filling out a form, which helped to reduce the workload of dev team
+      - Worked with the team to maintain and improve existing products, using a range of technologies such as React, Node.js, and MongoDB.
+      - Improved the quality of the codebase through refactoring and code reviews.
+      - Learned how to collaborate effectively with remote team members, and gained experience working in an Agile environment.
 
 Projects:
 
-- Name:     Lab
-  Site:     https://github.com/ghali-lab
-  Role:     Inventor / Developer / Learner
-  Details:
-  - The place where I test and learn
+  - Name: Lab
+    Site: https://github.com/cyrilghali/home-ops
+    Role: Site Reliability Engineer / System Administrator / Network Engineer
+    Details:
+      - Designed and deployed a scalable and reliable homelab infrastructure using k3s on 5 nodes
+      - Implemented an Nginx ingress controller and Cloudflare Tunnel to securely expose applications to the internet
+      - Utilized Ansible and Flux to automate infrastructure configuration and application deployment
 
 Volunteer:
 
-- Role:     Product Software Engineer / Lead Developer
-  Entity:   DCO Roma
-  Started:  July 2022
-  Stopped:  August 2022
-  Location: Roma, Italy
-  Details:
-  - Interviewed more than 15 Coptic People to understand their needs.
-  - Built the website solution that fit their needs.
-  - Exercised extreme empathy and development of interpersonal skills
-
-
-- Role:     Front-end Developer
-  Entity:   Catena, AD30-Inc
-  Started:  April 2022
-  Stopped:  May 2022
-  Location: Remote
-  Details:
-  - Improved the user experience on the website.
-   
+  - Role: Product Software Engineer / Lead Developer
+    Entity: DCO Roma, a non-profit organization that supports Coptic Christians in Rome, Italy.
+    Started: July 2022
+    Stopped: August 2022
+    Location: Roma, Italy
+    Details:
+      - Conducted interviews with a dozen Coptic people to understand their needs and pain points.
+      - Designed and built a website solution using React, and PayPal that allowed the organization to accept donations online
+      - Exercised extreme empathy and development of interpersonal skills in working closely with the organization's members and volunteers.
